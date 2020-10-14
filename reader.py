@@ -9,3 +9,4 @@ with open('alabamaCovid19Data_10_13_2020.csv') as csv_file:
             print(f'Processed {line_count} lines.')
         line_count += 1
     print(f'Processed {line_count} lines.')
+    
